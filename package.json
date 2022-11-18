@@ -1,0 +1,19 @@
+{
+  "name": "meu-primeiro-servidor",
+  "version": "1.0.0",
+  "description": "Esse Projeto foi desenvolvido na area de primeiro servidor do curso da Cubos academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Pedro Bauer",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
